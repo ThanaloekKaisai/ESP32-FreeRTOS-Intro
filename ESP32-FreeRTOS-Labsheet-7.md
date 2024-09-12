@@ -99,5 +99,6 @@ void app_main(void)
 ```
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
-
+![image](https://github.com/user-attachments/assets/88a2ee47-63fc-46c8-8298-4d210351663d)
+จะเป็นการทำงานTask แค่ 3 ครั้งและจะจบloopการทำงาน
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-8.md) 
