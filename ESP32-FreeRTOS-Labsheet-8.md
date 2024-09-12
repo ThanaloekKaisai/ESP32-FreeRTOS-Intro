@@ -100,7 +100,8 @@ void app_main(void)
 }
 
 ```
-
+![image](https://github.com/user-attachments/assets/cebc0c87-e056-4662-86ba-8e8c49a5c606)
+เป็นโค้ดรับค่าจากการกดปุ่ม button แล้วจะขึ้นTask ใน Terminal ว่าปุ่มมีการกด
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
  
