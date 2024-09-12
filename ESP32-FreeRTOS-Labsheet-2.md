@@ -95,5 +95,7 @@ void app_main(void)
 }
 
 ```
+![image](https://github.com/user-attachments/assets/f9d5dee0-16a5-4575-8255-8d12ffc67d65)
+ขึ้นHello My Frist Task แบบ 4 บรรทัดตาม Delay
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
