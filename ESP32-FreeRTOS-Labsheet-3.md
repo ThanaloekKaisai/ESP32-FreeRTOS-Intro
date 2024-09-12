@@ -50,7 +50,8 @@ void app_main(void)
 ```
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
-
+![image](https://github.com/user-attachments/assets/02847cc6-3689-442c-8762-3a450e073a18)
+เป็นการเพิ่ม Task โดยการเพิ่ม Hello My Second Task ตาม Delay
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
@@ -63,5 +64,7 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+   ![image](https://github.com/user-attachments/assets/17eb4242-0362-4fbd-85ff-92c6d94adce5)
+ฟังก์ชันนี้ทำหน้าที่เหมือนกับ xTaskCreate แต่มีพารามิเตอร์เพิ่มเติมเพื่อระบุ core ที่ต้องการให้ task ทำงาน
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
